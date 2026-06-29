@@ -1,0 +1,1206 @@
+canonical_identifier: bkk:krp/KR3ed093/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed093/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥治通義
+  identifiers:
+    krp: KR3ed093
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed093.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ed093_001-jc.yaml, hash: 'sha256:823bad05e11ecfcd48b469cf983543b122fda0b3e358ce78154938662980f941'}
+  - {seq: 2, filename: KR3ed093_002-jc.yaml, hash: 'sha256:71478d4dc5240013971fd0b27e7a08a27b7793f4c3bc5f48424652156eeff1a1'}
+  - {seq: 3, filename: KR3ed093_003-jc.yaml, hash: 'sha256:c4eadea97cc14648e78d0e2a6311ceb13f71b54bf3829efcfc56c7dbc38fdde0'}
+  - {seq: 4, filename: KR3ed093_004-jc.yaml, hash: 'sha256:8ffa13ef51df38307060217a01a84ab2b087259ab9804dc76f44b294b3db6c38'}
+  - {seq: 5, filename: KR3ed093_005-jc.yaml, hash: 'sha256:52e591eb0e071f03427be9a53f9c616ec2a75abf47e102dfa4492817e9b5d446'}
+  - {seq: 6, filename: KR3ed093_006-jc.yaml, hash: 'sha256:edc2004fc79248f8db2474cb4fbcc42fde9df16841848104ccd3928af3b3294b'}
+  - {seq: 7, filename: KR3ed093_007-jc.yaml, hash: 'sha256:7c892aeee02ac644671830395db6d3b8a24bb8f88e77e024f9bb8ffa09ab45bd'}
+  - {seq: 8, filename: KR3ed093_008-jc.yaml, hash: 'sha256:d59997241b69723d79533f3c03d6605f06b44226b0627e4691a1ac3bfcca64d5'}
+  - {seq: 9, filename: KR3ed093_009-jc.yaml, hash: 'sha256:02e379ff4604281b4a1ebb7d601ceb3ff47dacadc1ea90019a52b9eefcfa3287'}
+  - {seq: 10, filename: KR3ed093_010-jc.yaml, hash: 'sha256:a6b01a82d7b5e6a1f8bd17644aa27264aef41b1b434a23a618687081f31e99e3'}
+  - {seq: 11, filename: KR3ed093_011-jc.yaml, hash: 'sha256:09ef1778ee427565e3f01a8dfe58e56f0699e9948e76d602d38f6a968938a5f4'}
+  - {seq: 12, filename: KR3ed093_012-jc.yaml, hash: 'sha256:84f157cfa86e21c1a1592f918312af1d4a5321a540b37ba6e77f0e6e20ff5d50'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ed093_001-jc.markers.yaml, hash: 'sha256:3cb516f61a5bb359b5ccc0e09ef85726cd85887d98a34b94bae9edf0c552ba15'}
+  - {seq: 2, role: markers, filename: assets/KR3ed093_002-jc.markers.yaml, hash: 'sha256:b2169100fa73438e8b38fdbf2505722aed5a41e09b0b7b1ccebdde18ecf3d9f5'}
+  - {seq: 3, role: markers, filename: assets/KR3ed093_003-jc.markers.yaml, hash: 'sha256:12282f90eda00456c6d83e01980b55bf8a9962a3a5c2f4b91354c898370de6ff'}
+  - {seq: 4, role: markers, filename: assets/KR3ed093_004-jc.markers.yaml, hash: 'sha256:013a0c1307c8ad222ba49cdfb6759a97beae917a0513bfd5d36b902e0d7d67ad'}
+  - {seq: 5, role: markers, filename: assets/KR3ed093_005-jc.markers.yaml, hash: 'sha256:cd4d868227691fbbd4332b83ae0f37b6180fea3e84b732e8f31cbc232f3ae404'}
+  - {seq: 6, role: markers, filename: assets/KR3ed093_006-jc.markers.yaml, hash: 'sha256:4d854d92067cb64e7ae6b5879684d2df651b5275d8cade309be3eaabcf9676fc'}
+  - {seq: 7, role: markers, filename: assets/KR3ed093_007-jc.markers.yaml, hash: 'sha256:5bc408f9276cb60dc569941a5abb8ed1b589d380085477dc4e290486b076a593'}
+  - {seq: 8, role: markers, filename: assets/KR3ed093_008-jc.markers.yaml, hash: 'sha256:196487bd51b8e78a34c44d31e454971da53ef99d279d3cf98b04d8a5a03344ca'}
+  - {seq: 9, role: markers, filename: assets/KR3ed093_009-jc.markers.yaml, hash: 'sha256:b1f04b43f16609f5df5ffbaa39b68d2d2aa546c23246e70272081373a344c074'}
+  - {seq: 10, role: markers, filename: assets/KR3ed093_010-jc.markers.yaml, hash: 'sha256:bf4249d64190949a07394f7850424bc23c83b4ccd1a421311ae765112d38f43c'}
+  - {seq: 11, role: markers, filename: assets/KR3ed093_011-jc.markers.yaml, hash: 'sha256:98903ba65fe13c0a78f5ede02fee7d8dee75535ad50c89d0f87dc86ea330ac29'}
+  - {seq: 12, role: markers, filename: assets/KR3ed093_012-jc.markers.yaml, hash: 'sha256:354f5cc80998602391d407f10424fcffc9c9f95319e3e4c110ae0c1caab12e5b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 7611
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 1085
+  label: 用藥勿偏執
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d3
+    span:
+    - body
+    - 1085
+    - 1589
+  label: 用藥有四時之辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d4
+    span:
+    - body
+    - 1589
+    - 2233
+  label: 用藥有方土之宜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d5
+    span:
+    - body
+    - 2233
+    - 3174
+  label: 用藥有貴賤之別
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d6
+    span:
+    - body
+    - 3174
+    - 3751
+  label: 老人用藥法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d7
+    span:
+    - body
+    - 3751
+    - 5203
+  label: 小兒用藥法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d8
+    span:
+    - body
+    - 5203
+    - 6755
+  label: 婦人用藥法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed093_jc_001-d2d9
+    span:
+    - body
+    - 6755
+    - 7611
+  label: 傷寒雜病治法之異
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 15466
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 728
+  label: 治病求本
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d3
+    span:
+    - body
+    - 728
+    - 1651
+  label: 治宜防微
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d4
+    span:
+    - body
+    - 1651
+    - 2702
+  label: 治有標本
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d5
+    span:
+    - body
+    - 2702
+    - 3102
+  label: 治有初中末
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d6
+    span:
+    - body
+    - 3102
+    - 3998
+  label: 治有緩急
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d7
+    span:
+    - body
+    - 3998
+    - 4757
+  label: 治有輕重
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d8
+    span:
+    - body
+    - 4757
+    - 5572
+  label: 治有先後
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d9
+    span:
+    - body
+    - 5572
+    - 6782
+  label: 治貴應變
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d10
+    span:
+    - body
+    - 6782
+    - 10134
+  label: 虛實治要
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d11
+    span:
+    - body
+    - 10134
+    - 10683
+  label: 治當保護胃氣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d12
+    span:
+    - body
+    - 10683
+    - 11386
+  label: 治不必顧忌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d13
+    span:
+    - body
+    - 11386
+    - 11539
+  label: 治有隨所得而攻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d14
+    span:
+    - body
+    - 11539
+    - 12483
+  label: 治有不可正行
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d15
+    span:
+    - body
+    - 12483
+    - 14384
+  label: 反治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d16
+    span:
+    - body
+    - 14384
+    - 15101
+  label: 探試
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed093_jc_002-d3d17
+    span:
+    - body
+    - 15101
+    - 15466
+  label: 外患當以意治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed093_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6195
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed093_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 987
+  label: 方法大綱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed093_jc_003-d4d3
+    span:
+    - body
+    - 987
+    - 1982
+  label: 補瀉要領
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed093_jc_003-d4d4
+    span:
+    - body
+    - 1982
+    - 3104
+  label: 攻補寒熱同用
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed093_jc_003-d4d5
+    span:
+    - body
+    - 3104
+    - 4525
+  label: 五藏苦欲補瀉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed093_jc_003-d4d6
+    span:
+    - body
+    - 4525
+    - 6195
+  label: 氣血調治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8488
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 1797
+  label: 汗吐下總說
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5d3
+    span:
+    - body
+    - 1797
+    - 2691
+  label: 汗下寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5d4
+    span:
+    - body
+    - 2691
+    - 3517
+  label: 汗下遲早
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5d5
+    span:
+    - body
+    - 3517
+    - 5894
+  label: 汗法大旨
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5d6
+    span:
+    - body
+    - 5894
+    - 6368
+  label: 發汗不用燥藥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5d7
+    span:
+    - body
+    - 6368
+    - 7507
+  label: 發汗不可太過
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed093_jc_004-d5d8
+    span:
+    - body
+    - 7507
+    - 8488
+  label: 虛家不可大汗
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed093_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 7643
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed093_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 5188
+  label: 下法大旨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed093_jc_005-d6d3
+    span:
+    - body
+    - 5188
+    - 6214
+  label: 用下勿拘結糞
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed093_jc_005-d6d4
+    span:
+    - body
+    - 6214
+    - 6651
+  label: 下邪熱不宜丸
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed093_jc_005-d6d5
+    span:
+    - body
+    - 6651
+    - 7157
+  label: 溫下
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed093_jc_005-d6d6
+    span:
+    - body
+    - 7157
+    - 7643
+  label: 虛秘不可峻利
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed093_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 5041
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed093_jc_006-d7d2
+    span:
+    - body
+    - 2
+    - 4810
+  label: 吐法
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed093_jc_006-d7d3
+    span:
+    - body
+    - 4810
+    - 5041
+  label: 禁吐諸證
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 8039
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d2
+    span:
+    - body
+    - 2
+    - 3527
+  label: 補法大旨
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d3
+    span:
+    - body
+    - 3527
+    - 4622
+  label: 參附功用
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d4
+    span:
+    - body
+    - 4622
+    - 5315
+  label: 平補
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d5
+    span:
+    - body
+    - 5315
+    - 5667
+  label: 峻補
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d6
+    span:
+    - body
+    - 5667
+    - 6450
+  label: 補氣補血
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d7
+    span:
+    - body
+    - 6450
+    - 7079
+  label: 補要陰陽相濟
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d8
+    span:
+    - body
+    - 7079
+    - 7618
+  label: 補不宜涼藥
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed093_jc_007-d8d9
+    span:
+    - body
+    - 7618
+    - 8039
+  label: 禁補諸證
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed093_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 9295
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ed093_jc_008-d9d2
+    span:
+    - body
+    - 2
+    - 3937
+  label: 清法
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed093_jc_008-d9d3
+    span:
+    - body
+    - 3937
+    - 5695
+  label: 溫法
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed093_jc_008-d9d4
+    span:
+    - body
+    - 5695
+    - 7753
+  label: 消法
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed093_jc_008-d9d5
+    span:
+    - body
+    - 7753
+    - 8808
+  label: 澀法鎮法
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed093_jc_008-d9d6
+    span:
+    - body
+    - 8808
+    - 9295
+  label: 殺蟲
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10.h1s1
+    span:
+    - body
+    - 0
+    - 12148
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d2
+    span:
+    - body
+    - 2
+    - 566
+  label: 諸劑概略
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d3
+    span:
+    - body
+    - 566
+    - 2961
+  label: 湯散丸
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d4
+    span:
+    - body
+    - 2961
+    - 3370
+  label: 酒醴
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d5
+    span:
+    - body
+    - 3370
+    - 4004
+  label: 膏
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d6
+    span:
+    - body
+    - 4004
+    - 4823
+  label: 熨
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d7
+    span:
+    - body
+    - 4823
+    - 5361
+  label: 熏蒸
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d8
+    span:
+    - body
+    - 5361
+    - 6245
+  label: 漬浴澡洗
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed093_jc_009-d10d9
+    span:
+    - body
+    - 6245
+    - 12148
+  label: 導法導水諸以外治內法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11.h1s1
+    span:
+    - body
+    - 0
+    - 15451
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d2
+    span:
+    - body
+    - 2
+    - 703
+  label: 方藥離合
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d3
+    span:
+    - body
+    - 703
+    - 2388
+  label: 方劑古今
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d4
+    span:
+    - body
+    - 2388
+    - 2912
+  label: 用方貴約
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d5
+    span:
+    - body
+    - 2912
+    - 4095
+  label: 古方加減
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d6
+    span:
+    - body
+    - 4095
+    - 4879
+  label: 方味多寡
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d7
+    span:
+    - body
+    - 4879
+    - 5262
+  label: 單方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d8
+    span:
+    - body
+    - 5262
+    - 6780
+  label: 七方
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d9
+    span:
+    - body
+    - 6780
+    - 7404
+  label: 君臣佐使
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d10
+    span:
+    - body
+    - 7404
+    - 9948
+  label: 七情合和配合諸說
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed093_jc_010-d11d11
+    span:
+    - body
+    - 9948
+    - 15451
+  label: 方劑分量
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12.h1s1
+    span:
+    - body
+    - 0
+    - 12617
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d2
+    span:
+    - body
+    - 3
+    - 329
+  label: 藥分三品
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d3
+    span:
+    - body
+    - 329
+    - 1099
+  label: 藥性皆偏
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d4
+    span:
+    - body
+    - 1099
+    - 1900
+  label: 草石之異
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d5
+    span:
+    - body
+    - 1900
+    - 5117
+  label: 氣味
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d6
+    span:
+    - body
+    - 5117
+    - 6485
+  label: 藥性生成本原
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d7
+    span:
+    - body
+    - 6485
+    - 6846
+  label: 藥性專長
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d8
+    span:
+    - body
+    - 6846
+    - 7536
+  label: 一藥兼主
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d9
+    span:
+    - body
+    - 7536
+    - 9201
+  label: 功用大體
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d10
+    span:
+    - body
+    - 9201
+    - 9646
+  label: 引經報使之謬
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d11
+    span:
+    - body
+    - 9646
+    - 10495
+  label: 藥宜精擇
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d12
+    span:
+    - body
+    - 10495
+    - 10862
+  label: 藥品生熟
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d13
+    span:
+    - body
+    - 10862
+    - 11924
+  label: 製藥
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ed093_jc_011-d12d14
+    span:
+    - body
+    - 11924
+    - 12617
+  label: 藏藥貯擬法
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13.h1s1
+    span:
+    - body
+    - 0
+    - 9885
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d2
+    span:
+    - body
+    - 3
+    - 1035
+  label: 煮藥總說
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d3
+    span:
+    - body
+    - 1035
+    - 2140
+  label: 煮藥水火
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d4
+    span:
+    - body
+    - 2140
+    - 2855
+  label: 藥有別內湯中
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d5
+    span:
+    - body
+    - 2855
+    - 3100
+  label: 引藥
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d6
+    span:
+    - body
+    - 3100
+    - 3353
+  label: 去滓再煎
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d7
+    span:
+    - body
+    - 3353
+    - 3504
+  label: 藥滓再煮
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d8
+    span:
+    - body
+    - 3504
+    - 4246
+  label: 作丸散酒膏法
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d9
+    span:
+    - body
+    - 4246
+    - 4860
+  label: 服藥節度
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d10
+    span:
+    - body
+    - 4860
+    - 5375
+  label: 服藥多少
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d11
+    span:
+    - body
+    - 5375
+    - 6338
+  label: 服湯要溫清
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d12
+    span:
+    - body
+    - 6338
+    - 7027
+  label: 服補瀉汗吐湯法
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d13
+    span:
+    - body
+    - 7027
+    - 7195
+  label: 服藥不必盡劑
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d14
+    span:
+    - body
+    - 7195
+    - 7764
+  label: 嘔家服湯法口噤
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d15
+    span:
+    - body
+    - 7764
+    - 8228
+  label: 小兒服湯法
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d16
+    span:
+    - body
+    - 8228
+    - 9134
+  label: 服丸散酒法
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d17
+    span:
+    - body
+    - 9134
+    - 9425
+  label: 服藥不可與食相連
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed093_jc_012-d13d18
+    span:
+    - body
+    - 9425
+    - 9885
+  label: 服藥禁忌
+  type: section
+  level: 2
+hash: sha256:01513611b0dd40bcdd9b3511d073e6bf6677ee6eec5b09891f0332931e11fa6c
